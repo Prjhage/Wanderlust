@@ -21,6 +21,23 @@ The platform supports user authentication, listing management, reviews, and secu
 
 ---
 
+
+## ScreenShots
+
+## Desktop view
+
+<img width="1909" height="910" alt="Screenshot 2025-12-29 101751" src="https://github.com/user-attachments/assets/469b3e62-b025-46ba-a811-a3c900d71e3a" border="2px solid white"/>
+
+## Mobile view
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bba513fc-b10e-4346-a73c-c1f39d1f5a8e" width="280" height="560" />
+  <img src="https://github.com/user-attachments/assets/953ab215-adf6-41d8-a9c8-f6863886b0a1" width="280" height="550" />
+  <img src="https://github.com/user-attachments/assets/7f4eabbd-7011-4e9c-b632-ef50f2000907" width="280" height="560" />
+</p>
+
+
+ 
 ## 🛠 Tech Stack
 
 ### Frontend
